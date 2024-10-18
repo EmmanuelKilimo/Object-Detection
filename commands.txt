@@ -1,0 +1,5 @@
+streamlit run streamlit.py - frontend
+
+uvicorn api:app --reload - backend
+
+https://github.com/EmmanuelKilimo/ObjectDetection
